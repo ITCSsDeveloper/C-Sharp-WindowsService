@@ -1,0 +1,2 @@
+﻿Install   : InstallUtil.exe MyService.exe
+UnInstall : InstallUtil.exe /u MyService.exe
